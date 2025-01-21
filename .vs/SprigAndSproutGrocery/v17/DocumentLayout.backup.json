@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|c:\\users\\admin\\source\\repos\\sprigandsproutgrocery\\view\\seller\\billing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\seller\\billing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|c:\\users\\admin\\source\\repos\\sprigandsproutgrocery\\view\\admin\\dashbord.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\admin\\dashbord.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\view\\admin\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\admin\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\view\\admin\\cotegories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\admin\\cotegories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\view\\admin\\dashbord.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\admin\\dashbord.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\view\\seller\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\seller\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\view\\admin\\sellers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\admin\\sellers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\view\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\view\\admin\\sellers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\admin\\sellers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\view\\admin\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\admin\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\view\\admin\\cotegories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\admin\\cotegories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\view\\seller\\sellermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\seller\\sellermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\view\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:view\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\models\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89BCB3A-F6B2-490E-9C8A-C75462492E2B}|SprigAndSproutGrocery.csproj|solutionrelative:models\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Billing.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Seller\\Billing.aspx.cs",
+              "RelativeDocumentMoniker": "View\\Seller\\Billing.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Seller\\Billing.aspx.cs*",
+              "RelativeToolTip": "View\\Seller\\Billing.aspx.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:37:47.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashbord.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Dashbord.aspx.cs",
+              "RelativeDocumentMoniker": "View\\Admin\\Dashbord.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Dashbord.aspx.cs",
+              "RelativeToolTip": "View\\Admin\\Dashbord.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:26:29.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashbord.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Dashbord.aspx",
+              "RelativeDocumentMoniker": "View\\Admin\\Dashbord.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Dashbord.aspx",
+              "RelativeToolTip": "View\\Admin\\Dashbord.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-12T16:50:31.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Products.aspx.cs",
+              "RelativeDocumentMoniker": "View\\Admin\\Products.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Products.aspx.cs",
+              "RelativeToolTip": "View\\Admin\\Products.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:18:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sellers.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Sellers.aspx.cs",
+              "RelativeDocumentMoniker": "View\\Admin\\Sellers.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Sellers.aspx.cs",
+              "RelativeToolTip": "View\\Admin\\Sellers.aspx.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:14:25.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Billing.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Seller\\Billing.aspx",
+              "RelativeDocumentMoniker": "View\\Seller\\Billing.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Seller\\Billing.aspx",
+              "RelativeToolTip": "View\\Seller\\Billing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-09T11:45:30.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cotegories.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Cotegories.aspx.cs",
+              "RelativeDocumentMoniker": "View\\Admin\\Cotegories.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Cotegories.aspx.cs",
+              "RelativeToolTip": "View\\Admin\\Cotegories.aspx.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwJAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:30:48.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Products.aspx",
+              "RelativeDocumentMoniker": "View\\Admin\\Products.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Products.aspx",
+              "RelativeToolTip": "View\\Admin\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-12T17:06:22.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sellers.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Sellers.aspx",
+              "RelativeDocumentMoniker": "View\\Admin\\Sellers.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Sellers.aspx",
+              "RelativeToolTip": "View\\Admin\\Sellers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-09T11:43:28.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Login.aspx",
+              "RelativeDocumentMoniker": "View\\Login.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Login.aspx",
+              "RelativeToolTip": "View\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-12T05:46:29.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "View\\Admin\\AdminMaster.Master",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\AdminMaster.Master",
+              "RelativeToolTip": "View\\Admin\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-12T16:50:42.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cotegories.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Cotegories.aspx",
+              "RelativeDocumentMoniker": "View\\Admin\\Cotegories.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Admin\\Cotegories.aspx",
+              "RelativeToolTip": "View\\Admin\\Cotegories.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-12T16:50:33.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SellerMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Seller\\SellerMaster.Master",
+              "RelativeDocumentMoniker": "View\\Seller\\SellerMaster.Master",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\View\\Seller\\SellerMaster.Master",
+              "RelativeToolTip": "View\\Seller\\SellerMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-09T11:45:00.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\Models\\Functions.cs",
+              "RelativeDocumentMoniker": "Models\\Functions.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SprigAndSproutGrocery\\Models\\Functions.cs",
+              "RelativeToolTip": "Models\\Functions.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAlwCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:14:54.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
